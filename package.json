@@ -1,0 +1,14 @@
+{
+  "name": "class1051-study-planner",
+  "version": "1.0.0",
+  "description": "Production Server for Class 1051 Study Planner Web Portal",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

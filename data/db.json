@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "admin_kiavash",
+      "name": "kiavash",
+      "email": "kiavashshtzd@gmail.com",
+      "telegramId": "Kiavash9065",
+      "phone": "09155776751",
+      "passwordHash": "7c363953a9b165a05dd69f25189afd60737e57be125a9a036bc11d5916f3bde3",
+      "role": "admin",
+      "approvalStatus": "approved",
+      "completedHomeworkIds": [],
+      "homeworkProgress": {},
+      "examTopicProgress": {},
+      "workReports": [],
+      "createdAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "user_1792091233601",
+      "name": "علی علی",
+      "email": "aliali@gmail.com",
+      "telegramId": "@kiavash13434",
+      "phone": "091111111",
+      "passwordHash": "17e647ab9cfaa6bfe57d408112d8811f172e4f6e617b2cd830d4914e997b0feb",
+      "role": "student",
+      "approvalStatus": "approved",
+      "completedHomeworkIds": [],
+      "homeworkProgress": {},
+      "examTopicProgress": {},
+      "workReports": [],
+      "createdAt": "2026-10-15T19:16:21.357Z"
+    }
+  ],
+  "updatedAt": "2026-10-15T19:24:47.731Z"
+}
